@@ -1,4 +1,4 @@
-### Oiii eu sou a Arthur Azevedo, sou criador de conteúdo e estudo programação!
+### Oiii eu sou a Arthur Azevedo, sou criador de conteúdo (twitch) e estudo programação!
 
 <div>
    <a href="https://github.com/ghostarthur">
